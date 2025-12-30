@@ -98,12 +98,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b34-4e25-9894-4a9e2c64a3ca.gif" width="900">
 
 ---
-
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50"> Featured Projects:
-
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b34-4e25-9894-4a9e2c64a3ca.gif" width="900">
-
 ---
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50"> Connect With Me:
