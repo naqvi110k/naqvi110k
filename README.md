@@ -164,16 +164,20 @@ class SyedMohsinAbbasNaqvi:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=naqvi110k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=naqvi110k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naqvi110k&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqvi110k&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
 </div>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=naqvi110k&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" width="600"/>
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naqvi110k&theme=tokyonight" alt="Contribution Graph" width="800"/>
+  <img src="https://streak-stats.demolab.com?user=naqvi110k&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak Stats" width="700"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=naqvi110k&theme=tokyo-night&hide_border=true&area=true&area_color=e05397&radius=6" alt="Contribution Graph" width="900"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b34-4e25-9894-4a9e2c64a3ca.gif" width="900">
@@ -183,7 +187,7 @@ class SyedMohsinAbbasNaqvi:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=naqvi110k&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naqvi110k&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b34-4e25-9894-4a9e2c64a3ca.gif" width="900">
