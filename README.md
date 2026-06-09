@@ -53,9 +53,10 @@ class SyedMohsinAbbasNaqvi:
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack
 
 ### 🤖 AI / ML
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -164,7 +165,7 @@ class SyedMohsinAbbasNaqvi:
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naqvi110k&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naqvi110k&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqvi110k&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
 </div>
 
@@ -187,7 +188,7 @@ class SyedMohsinAbbasNaqvi:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naqvi110k&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=naqvi110k&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=-1" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b34-4e25-9894-4a9e2c64a3ca.gif" width="900">
