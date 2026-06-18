@@ -172,7 +172,7 @@ class SyedMohsinAbbasNaqvi:
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=naqvi110k&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak Stats" width="700"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naqvi110k&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak Stats" width="700"/>
 </div>
 
 <br/>
