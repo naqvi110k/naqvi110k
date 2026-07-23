@@ -162,17 +162,17 @@ class SyedMohsinAbbasNaqvi:
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Stats
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naqvi110k&show_icons=true&theme=radical&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naqvi110k&layout=donut&theme=midnight-purple&hide_border=true&langs_count=8" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=naqvi110k&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=naqvi110k&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app?user=naqvi110k&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="GitHub Streak Stats" width="700"/>
+  <img src="https://streak-stats.demolab.com/?user=naqvi110k&theme=tokyonight&hide_border=false" alt="GitHub Streak Stats" />
 </div>
 
 <br/>
