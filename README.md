@@ -188,7 +188,7 @@ class SyedMohsinAbbasNaqvi:
 ## 🏅 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naqvi110k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=-1" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=naqvi110k&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=-1" alt="GitHub Trophies"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47e185f-9b34-4e25-9894-4a9e2c64a3ca.gif" width="900">
